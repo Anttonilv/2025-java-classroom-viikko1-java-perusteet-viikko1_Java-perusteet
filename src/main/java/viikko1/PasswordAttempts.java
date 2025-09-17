@@ -10,7 +10,7 @@ public class PasswordAttempts {
                 return "Tervetuloa!";
             }
         }
-        return "Liian monta virhettä";
+        return "Liian monta virheellistä yritystä.";
     }
 }
 
