@@ -1,4 +1,5 @@
-package viikko1;
+package viikko1; // uusinta commit
+
 
 public class SortThree {
     public static String ascending(int a, int b, int c) {

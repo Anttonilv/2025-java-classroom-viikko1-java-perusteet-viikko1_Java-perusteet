@@ -1,4 +1,4 @@
-package viikko1;
+package viikko1; // uusinta commit
 
 public class ArrayStats {
     public static double average(int[] arr) {

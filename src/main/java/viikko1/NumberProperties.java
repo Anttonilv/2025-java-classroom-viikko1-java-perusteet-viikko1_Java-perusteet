@@ -1,4 +1,5 @@
-package viikko1;
+package viikko1; // uusinta commit
+
 
 public class NumberProperties {
     public static String describe(int n) {
